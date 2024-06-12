@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "460219284842",
+    "project_id": "rudraclinicadmin",
+    "storage_bucket": "rudraclinicadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460219284842:android:72b9da6bbf12cb8da23913",
+        "android_client_info": {
+          "package_name": "com.example.doctor_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460219284842-um3bgm9a3apjvoj3a6hookv8ufqmi4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WnVPzhYUQz_ZYBQEnxcxjgA3wGxl-yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460219284842-um3bgm9a3apjvoj3a6hookv8ufqmi4aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460219284842-ec48u1sesslqui5m47qra2qvnq007co4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudra.patient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460219284842:android:f44d49c5ae9ff24fa23913",
+        "android_client_info": {
+          "package_name": "com.example.rudra_clinic_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460219284842-bvopocl83pt887ghmjt1i2492q5j8qq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rudra_clinic_admin",
+            "certificate_hash": "64e82283ccbf7030370742211d4b3a2cbe9df9e5"
+          }
+        },
+        {
+          "client_id": "460219284842-um3bgm9a3apjvoj3a6hookv8ufqmi4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WnVPzhYUQz_ZYBQEnxcxjgA3wGxl-yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460219284842-um3bgm9a3apjvoj3a6hookv8ufqmi4aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460219284842-ec48u1sesslqui5m47qra2qvnq007co4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudra.patient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460219284842:android:357729e0c0b303fba23913",
+        "android_client_info": {
+          "package_name": "com.rudra.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460219284842-s5et92b4bgf7v9fcb7npqqjgr3ojab52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rudra.patient",
+            "certificate_hash": "3cbf68df9f734d486126e400d61f0d3d30417a7a"
+          }
+        },
+        {
+          "client_id": "460219284842-um3bgm9a3apjvoj3a6hookv8ufqmi4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WnVPzhYUQz_ZYBQEnxcxjgA3wGxl-yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460219284842-um3bgm9a3apjvoj3a6hookv8ufqmi4aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460219284842-ec48u1sesslqui5m47qra2qvnq007co4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudra.patient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
